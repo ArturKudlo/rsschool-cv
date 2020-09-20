@@ -1,1 +1,2 @@
-# https://your-github-account.github.io/rsschool-cv/cv
+# rsschool-cv
+https://ArturKudlo.github.io/rsschool-cv/cv
